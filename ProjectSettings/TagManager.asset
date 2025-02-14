@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - SafeZone
+  - WindZone
+  - FireCamp
+  - Gate
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGroundMap
+    uniqueID: 2447517303
+    locked: 0
+  - name: SafeZone
+    uniqueID: 4001562733
+    locked: 0
+  - name: Player
+    uniqueID: 3283632103
+    locked: 0
+  - name: Gate
+    uniqueID: 1128942289
+    locked: 0
+  - name: Ground
+    uniqueID: 1890411425
+    locked: 0
+  - name: ForceGround
+    uniqueID: 878990453
+    locked: 0
+  - name: Wind
+    uniqueID: 473216597
+    locked: 0
+  - name: UI
+    uniqueID: 92554801
+    locked: 0
+  - name: Notic
+    uniqueID: 1441731417
+    locked: 0
+  m_RenderingLayers:
+  - Default
