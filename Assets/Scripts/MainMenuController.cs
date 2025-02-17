@@ -29,7 +29,7 @@ public class MainMenuController : MonoBehaviour
         PlayerPrefs.DeleteKey("PlayerZ");
         PlayerPrefs.Save(); // Lưu lại thay đổi
 
-        SceneManager.LoadScene("LevelSelection"); // Chuyển đến màn hình chọn level
+        SceneManager.LoadScene("Scene1"); // Chuyển đến màn chơi
     }
 
     public void OnContinuePressed()
