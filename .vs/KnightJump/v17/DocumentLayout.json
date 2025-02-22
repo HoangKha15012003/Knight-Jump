@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "E:\\gameUnity\\KnightJump\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7AA9EFA2-3EEA-C041-9500-E330F42D1499}|Assembly-CSharp.csproj|E:\\gameUnity\\KnightJump\\assets\\scripts\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AA9EFA2-3EEA-C041-9500-E330F42D1499}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7AA9EFA2-3EEA-C041-9500-E330F42D1499}|Assembly-CSharp.csproj|e:\\gameunity\\knightjump\\assets\\scripts\\platformspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AA9EFA2-3EEA-C041-9500-E330F42D1499}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platformspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AA9EFA2-3EEA-C041-9500-E330F42D1499}|Assembly-CSharp.csproj|E:\\gameUnity\\KnightJump\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AA9EFA2-3EEA-C041-9500-E330F42D1499}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7AA9EFA2-3EEA-C041-9500-E330F42D1499}|Assembly-CSharp.csproj|e:\\gameunity\\knightjump\\assets\\scripts\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AA9EFA2-3EEA-C041-9500-E330F42D1499}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AA9EFA2-3EEA-C041-9500-E330F42D1499}|Assembly-CSharp.csproj|E:\\gameUnity\\KnightJump\\assets\\scripts\\levelcomplete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AA9EFA2-3EEA-C041-9500-E330F42D1499}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelcomplete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AA9EFA2-3EEA-C041-9500-E330F42D1499}|Assembly-CSharp.csproj|e:\\gameunity\\knightjump\\assets\\scripts\\gameloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AA9EFA2-3EEA-C041-9500-E330F42D1499}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AA9EFA2-3EEA-C041-9500-E330F42D1499}|Assembly-CSharp.csproj|E:\\gameUnity\\KnightJump\\assets\\scripts\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AA9EFA2-3EEA-C041-9500-E330F42D1499}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7AA9EFA2-3EEA-C041-9500-E330F42D1499}|Assembly-CSharp.csproj|E:\\gameUnity\\KnightJump\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AA9EFA2-3EEA-C041-9500-E330F42D1499}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "E:\\gameUnity\\KnightJump\\Assets\\Scripts\\GameManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
-              "ToolTip": "E:\\gameUnity\\KnightJump\\Assets\\Scripts\\GameManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAXAAAA",
+              "DocumentIndex": 0,
+              "Title": "PlatformSpawner.cs",
+              "DocumentMoniker": "E:\\gameUnity\\KnightJump\\Assets\\Scripts\\PlatformSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlatformSpawner.cs",
+              "ToolTip": "E:\\gameUnity\\KnightJump\\Assets\\Scripts\\PlatformSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlatformSpawner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T03:39:30.563Z",
+              "WhenOpened": "2025-02-22T02:25:13.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Platform.cs",
+              "DocumentMoniker": "E:\\gameUnity\\KnightJump\\Assets\\Scripts\\Platform.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Platform.cs",
+              "ToolTip": "E:\\gameUnity\\KnightJump\\Assets\\Scripts\\Platform.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Platform.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T02:22:07.269Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LevelComplete.cs",
-              "DocumentMoniker": "E:\\gameUnity\\KnightJump\\Assets\\Scripts\\LevelComplete.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelComplete.cs",
-              "ToolTip": "E:\\gameUnity\\KnightJump\\Assets\\Scripts\\LevelComplete.cs",
-              "RelativeToolTip": "Assets\\Scripts\\LevelComplete.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAgwAYAAAAqAAAA",
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "E:\\gameUnity\\KnightJump\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "E:\\gameUnity\\KnightJump\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T08:14:54.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainMenuController.cs",
-              "DocumentMoniker": "E:\\gameUnity\\KnightJump\\Assets\\Scripts\\MainMenuController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuController.cs",
-              "ToolTip": "E:\\gameUnity\\KnightJump\\Assets\\Scripts\\MainMenuController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\MainMenuController.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBsAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T07:54:15.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GameSettings.cs",
-              "DocumentMoniker": "E:\\gameUnity\\KnightJump\\Assets\\Scripts\\GameSettings.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameSettings.cs",
-              "ToolTip": "E:\\gameUnity\\KnightJump\\Assets\\Scripts\\GameSettings.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameSettings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T07:28:05.854Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GameLoader.cs",
-              "DocumentMoniker": "E:\\gameUnity\\KnightJump\\Assets\\Scripts\\GameLoader.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameLoader.cs",
-              "ToolTip": "E:\\gameUnity\\KnightJump\\Assets\\Scripts\\GameLoader.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameLoader.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T06:37:56.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T02:05:38.734Z"
             }
           ]
         }
